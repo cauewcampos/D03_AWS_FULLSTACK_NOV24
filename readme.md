@@ -26,7 +26,7 @@ Antes de iniciar, crie uma **VPC** e um **Security Group** seguindo este guia:
    📌 [Guia passo a passo](deploy_backend.md)  
 
 3⃣ **Criação e configuração do Banco de Dados** 💾  
-   📌 [Veja como fazer](banco_instancia.md)  
+   📌 [Veja como fazer](banco-instancia.md)  
 
 4⃣ **Configuração do Bucket S3** ☁️  
    📌 [Tutorial completo](deploy_frontend.md)  
