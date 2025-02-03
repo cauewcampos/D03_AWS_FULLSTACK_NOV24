@@ -1,4 +1,4 @@
-# 🌿 Seu Nome - Desafio 3  
+# 🌿 Cauê Watanabe de Campos - Desafio 3  
 
 🔗 **[Acesse o site na nuvem](http://stackovershop-caue-dsf3.s3-website.us-east-2.amazonaws.com/)**  
 
