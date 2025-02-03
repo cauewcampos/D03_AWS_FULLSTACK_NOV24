@@ -30,7 +30,7 @@
 ---
 
 ## 5️⃣ Download do Frontend
-- Baixe a pasta [stackovershop-web](files/stackovershop-web/)
+- Baixe a pasta [stackovershop-web](assets/stackovershop-web/)
 
 ---
 
