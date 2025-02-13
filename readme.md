@@ -1,6 +1,6 @@
 # 🌿 Cauê Watanabe de Campos - Desafio 3  
 
-🔗 **[Acesse o site na nuvem](http://stackovershop-caue-dsf3.s3-website.us-east-2.amazonaws.com/)**  
+🔗 **[Acesse o site na nuvem](http://stackovershop-caue-dsf3.s3-website.us-east-2.amazonaws.com/)**  (OFFLINE NO MOMENTO)
 
 ### 🔹 Sobre o site  
 ✔️ Não é necessário login ou senha para utilizar.  
